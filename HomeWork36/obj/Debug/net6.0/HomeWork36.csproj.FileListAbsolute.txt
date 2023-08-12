@@ -1,0 +1,5 @@
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork36\obj\Debug\net6.0\HomeWork36.csproj.AssemblyReference.cache
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork36\obj\Debug\net6.0\HomeWork36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork36\obj\Debug\net6.0\HomeWork36.AssemblyInfoInputs.cache
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork36\obj\Debug\net6.0\HomeWork36.AssemblyInfo.cs
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork36\obj\Debug\net6.0\HomeWork36.csproj.CoreCompileInputs.cache
