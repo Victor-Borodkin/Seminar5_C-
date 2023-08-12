@@ -1,0 +1,15 @@
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\bin\Debug\net6.0\HomeWork38.exe
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\bin\Debug\net6.0\HomeWork38.deps.json
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\bin\Debug\net6.0\HomeWork38.runtimeconfig.json
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\bin\Debug\net6.0\HomeWork38.dll
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\bin\Debug\net6.0\HomeWork38.pdb
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\obj\Debug\net6.0\HomeWork38.csproj.AssemblyReference.cache
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\obj\Debug\net6.0\HomeWork38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\obj\Debug\net6.0\HomeWork38.AssemblyInfoInputs.cache
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\obj\Debug\net6.0\HomeWork38.AssemblyInfo.cs
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\obj\Debug\net6.0\HomeWork38.csproj.CoreCompileInputs.cache
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\obj\Debug\net6.0\HomeWork38.dll
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\obj\Debug\net6.0\refint\HomeWork38.dll
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\obj\Debug\net6.0\HomeWork38.pdb
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\obj\Debug\net6.0\HomeWork38.genruntimeconfig.cache
+C:\Users\Виктор Бородкин\Desktop\IT\Seminar5-C#\HomeWork38\obj\Debug\net6.0\ref\HomeWork38.dll
